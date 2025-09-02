@@ -7,7 +7,7 @@ This (Laser Radar) LADAR simulator (V2) App has been developed, using MATLAB and
 The simulator is designed to display the results after the scanning process in four different formats, one in spherical coordinates (spherical image), the other three in Cartesian coordinates (point cloud, surfaces and laser beams intersection spots with the model surface). Two types of scanning formats can be saved with this simulator, Spherical {3D matrix (θ, φ r,)} and Cartesian 3D matrix (x,y,z)}. 
 
 
-<p align="center"><img src="img.pnj" width="480"></p>
+<p align="center"><img src="img.png" width="480"></p>
 
 
 ## Implementations
